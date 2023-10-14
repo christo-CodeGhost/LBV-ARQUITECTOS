@@ -1,0 +1,49 @@
+body {
+    color: white;
+    font-family: sans-serif;
+    background-image: url("img portada/madera.jpg");
+    background-size: auto;
+}
+
+#tituloprincipal {
+    text-align: center;
+    color: white
+    font-style: normal;
+    font-size: 60px;
+}
+
+#subtituloprincipal {
+    text-align: center;
+    color: white;
+    font-style: normal;
+    font-size: 25px;
+}
+
+#servicios {
+    text-align: center;
+}
+
+#contacto {
+    color: white;
+}
+
+#nosotros {
+    text-align: center;
+}
+
+#contenido {
+    text-align: center;
+}
+
+#imagenes {
+    size: auto;
+}
+
+#rrss {
+    text-align: center;
+    font-size: 20px;
+}
+
+#instagram {
+    align-items: center;
+}
