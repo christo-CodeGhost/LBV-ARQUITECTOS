@@ -1,74 +1,71 @@
-@media only screen and (min-width:320px) and (max-width:480px){
-    
-    body {
+body {
     color: white;
     font-family: sans-serif;
     background-image: url("img portada/madera.jpg");
     background-size: auto;
-    }
+}
 
-    hr {
-        color: rgb(172, 172, 172);
-        margin-top: 50px;
-        margin-bottom: 50px;
-        margin-left: 200px;
-        margin-right: 200px;
-        border: 5px rgb(180, 180, 180) solid;
+hr {
+    color: rgb(172, 172, 172);
+    margin-top: 50px;
+    margin-bottom: 50px;
+    margin-left: 15%;
+    margin-right: 15%;
+    border: 5px rgb(180, 180, 180) solid;
     
-    }
+}
 
-    li {
-        margin-top: 40px;
-        margin-bottom: 20px;
-    }
+li {
+    margin-top: 40px;
+    margin-bottom: 20px;
+}
 
 
-    #tituloprincipal {
-        text-align: center;
-        color: white
-        font-style: normal;
-        font-size: 80px;
-    }
+#tituloprincipal {
+    text-align: center;
+    color: white
+    font-style: normal;
+    font-size: 500%;
+}
 
-    #servicios {
-        text-align: center;
-        list-style: none;
-        background-color: rgba(0, 0, 0, 0.5);
-        border: 50px  rgba(0, 0, 0, 0.05) solid;
-        margin-left: 500px;
-        margin-right: 500px;
-    }
+#servicios {
+    text-align: center;
+    list-style: none;
+    background-color: rgba(0, 0, 0, 0.5);
+    border: 50px  rgba(0, 0, 0, 0.05) solid;
+    margin-left: 10%;
+    margin-right: 10%;
+}
 
-    #contacto {
-        background-color: white;
-        border: 10px white solid;
-        border-radius: 10px;
-        color: black;
-        font-family: Arial, Helvetica, sans-serif;
-        font-size: 50px;
-        text-decoration: none;
-    }
+#contacto {
+    background-color: white;
+    border: 10px white solid;
+    border-radius: 10px;
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 50px;
+    text-decoration: none;
+}
 
-    #nosotros {
-        text-align: center;
-        background-color: rgba(0, 0, 0, 0.5);
-        border: 50px  rgba(0, 0, 0, 0.05) solid;
-        margin-left: 500px;
-        margin-right: 500px;
-    }
+#nosotros {
+    text-align: center;
+    background-color: rgba(0, 0, 0, 0.5);
+    border: 50px  rgba(0, 0, 0, 0.05) solid;
+    margin-left: 10%;
+    margin-right: 10%;
+}
 
-    #imagenes {
-        margin-top: 20px;
-        margin-bottom: 20px;
-        border: 20px white solid;
-    }
+#imagenes {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    border: 20px white solid;
+}
 
-    #contenido {
-        text-align: center;
-    }
+#contenido {
+    text-align: center;
+}
 
-    #rrss {
-        text-align: center;
-        font-size: 20px;
-    }
+#rrss {
+    text-align: center;
+    font-size: 20px;
 }
